@@ -1,0 +1,12 @@
+
+[Desktop Entry]
+Type=Application
+Exec=gksu /usr/bin/ddKaltas-ubuntu
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Icon=Atomic.png
+Name[en_US]=Kaltas
+Name=Kaltas
+Comment[en_US]=autostart_kaltas
+Comment=autostart_kaltas

@@ -1,0 +1,8 @@
+#! /bin/sh
+
+cp /app/kaltas.desktop /etc/xdg/autostart
+cp /app/kaltas.desktop ~/.config/autostart
+cp /app/kaltas.desktop ~/Desktop
+
+
+exit 0

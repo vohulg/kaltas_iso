@@ -1,0 +1,10 @@
+VERSION=10.04-livecd		# Ubuntu LiveCD version
+ISODIR=/1/iso				# Path to original ISO
+LIVEDIR=/1/live			# Directory for building
+
+
+PACKAGES="mc htop testdisk chntpw"	# Packages that have to be installed
+UPTODATE=0				# Whether "aptitude full-upgrade" have to be done
+TIMEZONE="Europe/Moscow"		# Time Zone
+
+
